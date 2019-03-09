@@ -5,6 +5,7 @@ parser: 'tree-sitter-html'
 
 fileTypes: [
   'html'
+  'htm'
 ]
 
 injectionRegExp: '(HTML|html|Html)$'
